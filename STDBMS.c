@@ -1,7 +1,7 @@
 /**
  * Author: Manuel Di Pietro
  * Date: 08-03-2024
- * Program to manage a small TBDMS
+ * Program to manage a small TDBMS
  * Assumption: Equal values cannot be entered in key fields.
 */
 
