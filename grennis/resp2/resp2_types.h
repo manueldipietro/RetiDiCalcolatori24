@@ -1,0 +1,5 @@
+#pragma once
+
+typedef enum Resp2_type{
+    RESP2_STRING, RESP2_ERROR, RESP2_NUMBER, RESP2_BULKSTRING, RESP2_ARRAY, RESP2_GENERICS
+} Resp2_type;
