@@ -14,7 +14,7 @@ typedef struct Client{
     int client_id;
     
     int request_number;
-    int respons_number
+    int respons_number;
     pthread_cond_t send_condition;
     pthread_mutex_t send_mutex;
 
