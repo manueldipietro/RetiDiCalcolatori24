@@ -5,7 +5,7 @@ It consists of:<br>
 -a library for abstract data types (ADT/)<br>
 -a library for handling resp2 types (resp2/)<br>
 -the code for the server<br>
--a code for operate on struct timespec taken from Github (Daniel Collins & Alex Forencich> <br>
+-a code for operate on struct timespec taken from Github (Daniel Collins & Alex Forencich) <br>
 <br>
 This version supports:<br>
 -concurrent connections<br>
