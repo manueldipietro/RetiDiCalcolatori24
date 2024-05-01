@@ -1,4 +1,4 @@
-Greddis_v1.0
+Grennis_v1.0
 
 Greddis code for computer networking course.<br>
 It consists of:<br>
