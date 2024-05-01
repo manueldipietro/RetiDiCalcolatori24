@@ -12,5 +12,4 @@ This version supports:
 -set, get and client_setinfo commands in all their versions, unrecognized command error.
 
 However it still has problems detecting closed connections and deleting them.
-
-! For compile the code use "./compile.bash"</font>
+For compile the code use "./compile.bash"
