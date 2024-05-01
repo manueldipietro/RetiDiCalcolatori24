@@ -3,7 +3,6 @@
 void* client_process(void* args);
 
 Client* client_new(int id, int socket_fd, TDBMS* tdbms, Expirer_manager* expirer_manager){
-    printf("CI ENTRO1\n");
     int ret = 0;
     Client* client = malloc(sizeof(Client));
     
