@@ -13,4 +13,4 @@ This version supports:
 
 However it still has problems detecting closed connections and deleting them.
 
-For compile the code use "./compile.bash"
+<font color="red"> For compile the code use "./compile.bash"</font>
