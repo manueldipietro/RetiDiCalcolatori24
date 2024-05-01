@@ -6,7 +6,7 @@ It consists of:
 -a library for handling resp2 types (resp2/)
 -the code for the server
 
-This version supports:
+This version supports:<br>
 -concurrent connections
 -command pipeling
 -set, get and client_setinfo commands in all their versions, unrecognized command error.
