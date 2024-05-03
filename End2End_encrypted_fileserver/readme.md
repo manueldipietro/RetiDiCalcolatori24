@@ -6,3 +6,5 @@ Quando un utente caricherà un file dovrà generare una chiave simmetrica e crit
 Viceversa, quando un utente vorrà accedere ad un file dovrà richiedere al server, il file, la chiave memorizzata nel suo bucket, decrittografare la chiave simmetrica utilizzando la sua chiave privata e quindi accedere al file decrittografandolo con la chiave pubblica appena scoperta.<br>
 Quest'idea di gestore delle chiavi dovrebbe risultare abbastanza efficiente nella distribuzione delle chiavi, ma risulta particolarmente inefficiente nel revocare l’accesso ad uno o più utenti, sarà infatti necessario in tal caso cambiare la chiave di crittografia simmetrica associata al file per garantire che gli utenti precedentemenete autorizzati non abbiano più accesso al file.
 (Si inserisce uno schema nel repository per maggiore chiarezza) (-->file keyManager.jpg)<br>
+
+![alt text](https://github.com/manueldipietro/RetiDiCalcolatori24/blob/main/End2End_encrypted_fileserver/Keymanager.jpg)
